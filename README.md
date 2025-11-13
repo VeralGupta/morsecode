@@ -1,13 +1,3 @@
-Below is a **clean, complete, professional GitHub-ready README.md** for your **Optical Morse Code Communication System**, covering:
-
-✅ Transmitter (Arduino)
-✅ Receiver (Laptop Python/OpenCV)
-✅ Mobile-side workflow
-✅ Requirements, setup, usage, diagrams, calibration, troubleshooting
-✅ Ready to paste directly into GitHub
-
----
-
 # 📡 Optical Morse Code Communication System
 
 ### **Android → Arduino → LED → Laptop Webcam → Python Decoder**
@@ -315,35 +305,5 @@ Adjust LED brightness, avoid direct sunlight.
 Check OTG cable / settings / permissions.
 
 ---
-
-# 🏁 **Demo**
-
-Include a video in the GitHub README:
-
-* Phone compiling & flashing
-* Arduino blinking message
-* Laptop decoding in real time
-
----
-
-# 🎉 **Project Completed**
-
-Fully working **optical Morse communication system** with:
-
-* Pure LED-based signaling
-* Real-time OpenCV decoding
-* Mobile-first embedded workflow
-* Automatic calibration
 * Robust receiver logic
-
----
-
-If you want, I can also prepare:
-
-✅ `requirements.txt`
-✅ `util.py`
-✅ `platformio.ini`
-✅ Full repository structure zipped
-✅ GitHub description + tags
-
-Just say **"generate full repo pack"**.
+ack"**.
